@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(250, 241, 241);
+
+}
+#logo{
+    width: 100px;   
+    margin-top: -30px;
+    margin-right: 80px;
+}
+
+ul{
+    display: flex;
+    background-color: #e66c09;
+    padding: 15px;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+}
+li{
+    list-style: none;
+    margin: 10px;
+    margin-left: 30px;
+    font-size: 20px;
+    color: rgb(243, 240, 237);
+    font-weight: 600;
+
+}
+ul li a{
+    text-decoration: none;
+    color:rgb(252, 251, 251); ;
+}
+button{
+    width: 80px;
+    height: 50px;
+    color: #ffffff;
+    font-size: 30px;
+    background-color: #0b78e6;
+    border-radius: 30px;
+    border: none;
+    margin-left: 400px;
+}
+.home img{
+    width: 100%;
+    height: 100%;
+}
+
+/*mobile*/
+
+.cart{
+    background: #ffffff;
+    width: 20%;
+    padding-left: 55px;
+    padding-top: 5%;
+}
+.cart img{
+    background-color: #178cda;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.cart p{
+    margin:10px ;
+    font-size: 19px;
+}
+.cart h4{
+    margin:10px;
+    font-size: 30px;
+}
+#cart{
+    background-color: #1f92eb;
+    margin: 10px;
+    width: 90%;
+}
+#cart:hover{
+    background-color: #f55106;
+    margin: 10px;
+    width: 90%;
+}
+
+.cart1{
+display: flex;
+}
+
+.moblie{
+    font-size: 450%;
+    padding-top: 40px;
+    padding-left: 40%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.cart img{
+    background-color: #ffffff;
+}
+.img{
+    width: 50%;
+    height: 100%;
+    padding-left: 50px;
+    padding-top: 5%;
+}
+.us{
+    padding-top: 40px;
+    padding-left: 40%;
+}
+.sign{
+    margin-left: 10%;
+}
+
+
